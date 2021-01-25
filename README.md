@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Carina Tobias, I'm a italo-brazilian almost Data Scientist excited to learn all sort of data mining and Machine Learning.
-
 Graduated in Math and Information Systems I worked a lot with financial module of SAP but I realized that understand data is really powerful!
 
 - 🔭 Currently trying to working as Data Scientist
